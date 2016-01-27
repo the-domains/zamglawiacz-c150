@@ -1,7 +1,7 @@
 name: zamgławiacz c150+
 favicon: null
-layout_spectrum: 0.06958480481989682
-typography_spectrum: 0.5573315108194947
+layout_spectrum: 0
+typography_spectrum: 0.56394
 title: Zamgławiacz  - aktywna mgła odkaża pokój 25m2 w czasie poniżej minuty
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.0606171190738678
-  lightness: 0.6437458174768835
+    - '#ffffff'
+    - '#c2c3bd'
+    - '#707070'
+    - '#969a99'
+    - '#040605'
+  brandStrength: 0.4375
+  lightness: 0.8125
   saturation: 0.03758425638079643
-  rhythmicContrast: 0.9226392884738743
+  rhythmicContrast: 0.75
 purpose: []
